@@ -23,12 +23,6 @@ I value supporting aspiring analytics professionals with their career goals. Fee
 P Long, G Wan, MT Roberts, G Corfas. Developmental neurobiology 78 (2), 80-92
 [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
 
-**To learn is to myelinate.** 
-P Long, G Corfas. To learn is to myelinate. Science 346 (6207), 298-299. [paper](https://www.science.org/doi/abs/10.1126/science.1261127)
-
-**Dynamic regulation of myelination in health and disease.**
-P Long, G Corfas.  JAMA psychiatry 71 (11), 1296-1297.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4250970/pdf/nihms644315.pdf)
-
 **Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH).**
 O Yasar*, P Long*, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics - In Press. [preprint](https://arxiv.org/abs/2203.03365)
 
@@ -38,11 +32,17 @@ R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, 
 **AI Plus Real-World Data for Early Prediction of Disease Progression and Operationalized Precision Targeting.**
 B  Malpede, S Roy, P Long, E Ozkan, R Hopson, N Leavitt, O Doyle, J Rigg.   2020. PMSA. [paper](https://www.pmsa.org/jpmsa-vol08-article07)
 
-**Hypomyelination leads to alterations in inhibitory function and parvalbumin-positive neuron density in auditory cortex.** 
-X Meng, BC Borges, P Long, PO Kanold, G Corfas. 2021. BioRxiv. [preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.167833v4)
-
 **Using SNOMED to automate clinical concept mapping.**
 Gupta S, Dieleman F, Long P, Doyle O, Leavitt N. 2020. Proceedings of the ACM Conference on Health, Inference, and Learning.[paper](https://dl.acm.org/doi/10.1145/3368555.3384453)
+
+**To learn is to myelinate.** 
+P Long, G Corfas. To learn is to myelinate. Science 346 (6207), 298-299. [paper](https://www.science.org/doi/abs/10.1126/science.1261127)
+
+**Dynamic regulation of myelination in health and disease.**
+P Long, G Corfas.  JAMA psychiatry 71 (11), 1296-1297.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4250970/pdf/nihms644315.pdf)
+
+**Hypomyelination leads to alterations in inhibitory function and parvalbumin-positive neuron density in auditory cortex.** 
+X Meng, BC Borges, P Long, PO Kanold, G Corfas. 2021. BioRxiv. [preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.167833v4)
 
 
 ---

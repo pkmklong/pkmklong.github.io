@@ -17,7 +17,7 @@ Hi! I’m Patrick. I'm a curiosity-driven data scientist with a background in ma
 
 I value supporting aspiring analytics professionals with their career goals. Feel free to reach out.
 
-## Publications
+## Selected Publications
 
 
 **Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH).**
@@ -44,6 +44,7 @@ P Long, G Wan, MT Roberts, G Corfas. Developmental neurobiology 78 (2), 80-92.[p
 **Hypomyelination leads to alterations in inhibitory function and parvalbumin-positive neuron density in auditory cortex.** 
 X Meng, BC Borges, P Long, PO Kanold, G Corfas. 2021. BioRxiv.[preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.167833v4)
 
+[Full Bibliography](https://scholar.google.com/citations?user=Xg4y16YAAAAJ&hl=en)
 
 ---
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)

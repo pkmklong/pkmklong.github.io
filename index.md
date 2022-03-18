@@ -11,9 +11,9 @@ Hi! I’m Patrick. I'm a curiosity-driven data scientist with a background in ma
 
 ## Research Interests 🌱
 
-* Applied ML in Healthcare - how can analytics and healthcare professional best collaborate to improve patient care?
-* Data Interoperability - how can we make various health data play well together?
-* Algorithmic Fairness - how can we ensure that data solutions provide equitable care for all patients?
+* *Applied ML in Healthcare* - how can analytics and healthcare professional best collaborate to improve patient care?
+* *Data Interoperability* - how can we make various health data play well together?
+* *Algorithmic Fairness* - how can we ensure that data solutions provide equitable care for all patients?
 
 I value supporting aspiring analytics professionals with their career goals. Feel free to reach out.
 

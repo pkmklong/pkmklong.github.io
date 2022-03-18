@@ -29,10 +29,7 @@ I value supporting aspiring analytics professionals with their career goals. Fee
 8. Gupta S, Dieleman F, Long P, Doyle O, Leavitt N: Using SNOMED to automate clinical concept mapping. 2020/4/2. Proceedings of the ACM Conference on Health, Inference, and Learning. 
 
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
+## Education & Training
 
 Year |  Role | Institution
 -----|-------|--------

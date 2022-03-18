@@ -15,7 +15,7 @@ I am a curiosity-driven data scientist with a background in machine learning, li
 * Data Interoperability - how can we make various health data play well together?
 * Algorithmic Fairness - how can we ensure that data solutions provide equitable care for all patients?
 
-I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out :)
+I value supporting aspiring analytics professionals with their career goals. Feel free to reach out.
 
 ## Publications
 

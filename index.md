@@ -45,13 +45,5 @@ X Meng, BC Borges, P Long, PO Kanold, G Corfas. 2021. BioRxiv. [preprint](https:
 Gupta S, Dieleman F, Long P, Doyle O, Leavitt N. 2020. Proceedings of the ACM Conference on Health, Inference, and Learning.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
 
 
-## Education & Training
-
-Year |  Role | Institution
------|-------|--------
-2014-2018 | Postdoc | University of Michigan
-2013-2014 | Postdoc | University of Michigan
-2014 | PhD in neuroscience| University of Vermont
-
 ---
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)

@@ -9,3 +9,7 @@
 
 - name: "About"
   link: "index"
+  
+  
+- name: "Tutorials"
+  link: "tutorials"

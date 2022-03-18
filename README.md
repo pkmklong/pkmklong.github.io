@@ -1,6 +1,6 @@
-# Researcher
+# 
 
-### [Demo Website](http://pkmklong.github.io)
+### [Website](http://pkmklong.github.io)
 
 A clean, single column, monospace resume template built for jekyll
 

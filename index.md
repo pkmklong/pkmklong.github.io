@@ -19,14 +19,30 @@ I value supporting aspiring analytics professionals with their career goals. Fee
 
 ## Publications
 
-1. P Long, G Wan, MT Roberts, G Corfas: Myelin development, plasticity, and pathology in the auditory system. Developmental neurobiology 78 (2), 80-92
-2. P Long, G Corfas. To learn is to myelinate. Science 346 (6207), 298-299.
-3. P Long, G Corfas. Dynamic regulation of myelination in health and disease. JAMA psychiatry 71 (11), 1296-1297.
-4. O Yasar*, P Long*, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH). BMJ Health and Care Informatics - In Press.
-5. R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, J Rigg, V Salvatelli, A Webber: Unbiased ETL System For Timed Medical Event Prediction. US Patent 20,210,090,745.
-6.B  Malpede, S Roy, P Long, E Ozkan, R Hopson, N Leavitt, O Doyle, J Rigg: AI Plus Real-World Data for Early Prediction of Disease Progression and Operationalized Precision Targeting. 2020. PMSA.
-7. X Meng, BC Borges, P Long, PO Kanold, G Corfas: Hypomyelination leads to alterations in inhibitory function and parvalbumin-positive neuron density in auditory cortex. 2021. BioRxiv.
-8. Gupta S, Dieleman F, Long P, Doyle O, Leavitt N: Using SNOMED to automate clinical concept mapping. 2020/4/2. Proceedings of the ACM Conference on Health, Inference, and Learning. 
+**Myelin development, plasticity, and pathology in the auditory system.**
+P Long, G Wan, MT Roberts, G Corfas. Developmental neurobiology 78 (2), 80-92
+[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
+
+**To learn is to myelinate.** 
+P Long, G Corfas. To learn is to myelinate. Science 346 (6207), 298-299. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
+
+**Dynamic regulation of myelination in health and disease.**
+P Long, G Corfas.  JAMA psychiatry 71 (11), 1296-1297.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
+
+**Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH).**
+O Yasar*, P Long*, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics - In Press. [preprint](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
+
+**Unbiased ETL System For Timed Medical Event Prediction.**
+R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, J Rigg, V Salvatelli, A Webber. US Patent 20,210,090,745.[patent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
+
+**AI Plus Real-World Data for Early Prediction of Disease Progression and Operationalized Precision Targeting.**
+B  Malpede, S Roy, P Long, E Ozkan, R Hopson, N Leavitt, O Doyle, J Rigg.   2020. PMSA. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
+
+**Hypomyelination leads to alterations in inhibitory function and parvalbumin-positive neuron density in auditory cortex.** 
+X Meng, BC Borges, P Long, PO Kanold, G Corfas. 2021. BioRxiv. [preprint](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
+
+**Using SNOMED to automate clinical concept mapping.**
+Gupta S, Dieleman F, Long P, Doyle O, Leavitt N. 2020. Proceedings of the ACM Conference on Health, Inference, and Learning.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
 
 
 ## Education & Training

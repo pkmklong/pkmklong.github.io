@@ -22,31 +22,23 @@ I value supporting aspiring analytics professionals with their career goals. Fee
 1. P Long, G Wan, MT Roberts, G Corfas: Myelin development, plasticity, and pathology in the auditory system. Developmental neurobiology 78 (2), 80-92
 2. P Long, G Corfas. To learn is to myelinate. Science 346 (6207), 298-299.
 3. P Long, G Corfas. Dynamic regulation of myelination in health and disease. JAMA psychiatry 71 (11), 1296-1297.
-4. O Yasar*, P Long*, B Harder, H Marshall, S Bhasin, S Lee, Mark Delegge, S Roy, O Doyle, N Leavitt, J Rigg. Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH). BMJ Health and Care Informatics - In Press.
-5. 
+4. O Yasar*, P Long*, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH). BMJ Health and Care Informatics - In Press.
+5. R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, J Rigg, V Salvatelli, A Webber: Unbiased ETL System For Timed Medical Event Prediction. US Patent 20,210,090,745.
+6.B  Malpede, S Roy, P Long, E Ozkan, R Hopson, N Leavitt, O Doyle, J Rigg: AI Plus Real-World Data for Early Prediction of Disease Progression and Operationalized Precision Targeting. 2020. PMSA.
+7. X Meng, BC Borges, P Long, PO Kanold, G Corfas: Hypomyelination leads to alterations in inhibitory function and parvalbumin-positive neuron density in auditory cortex. 2021. BioRxiv.
+8. Gupta S, Dieleman F, Long P, Doyle O, Leavitt N: Using SNOMED to automate clinical concept mapping. 2020/4/2. Proceedings of the ACM Conference on Health, Inference, and Learning. 
+
 
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
 
-Year | Award | Category
+Year |  Role | Institution
 -----|-------|--------
-2014 | _  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | _ | Nominated for Best Leading Actor for Sherlock
-2014 | _ | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+2014-2018 | Postdoc | University of Michigan
+2013-2014 | Postdoc | University of Michigan
+2014 | PhD in neuroscience| University of Vermont
 
 ---
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

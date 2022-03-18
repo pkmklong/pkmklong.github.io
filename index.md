@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I’m Patrick. I'm a curiosity-driven data scientist with a background in machine learning, life science research and biomedical commercialization. I completed my PhD in neuroscience at the University of Vermont and postdoctoral training at Harvard University and the University of Michigan. In my current role, I work alongside various healthcare stakeholders (pharma, providers, patients, universities) to develop custom machine learning solutions, such as diagnostic algorithms to accelerate the diagnosis of rare diseases. My passion is combining data with curiosity to make healthcare better for everyone. 
+Hi! I’m Patrick. I'm a curiosity-driven data scientist with a background in machine learning, life science research and biomedical commercialization. I completed my PhD in neuroscience at the University of Vermont and postdoctoral training at Harvard University [Kirby Neuribiology Center](https://kirbyneuro.org/) and the University of Michigan [Kresge Hearing Research Institute](https://medicine.umich.edu/dept/kresge-hearing-research-institute). In my current role, I work alongside various healthcare stakeholders (pharma, providers, patients, universities) to develop custom machine learning solutions, such as diagnostic algorithms to accelerate the diagnosis of rare diseases. My passion is combining data with curiosity to make healthcare better for everyone. 
 
 
 ## Research Interests 🌱

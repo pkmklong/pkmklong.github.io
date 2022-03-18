@@ -21,7 +21,7 @@ I value supporting aspiring analytics professionals with their career goals. Fee
 
 
 **Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH).**
-O Yasar*, P Long*, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics - In Press.[preprint](https://arxiv.org/abs/2203.03365)
+O Yasar, P Long, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics - In Press.[preprint](https://arxiv.org/abs/2203.03365)
 
 **Unbiased ETL System For Timed Medical Event Prediction.**
 R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, J Rigg, V Salvatelli, A Webber. US Patent 20,210,090,745.[patent](https://patents.justia.com/patent/20210090745)

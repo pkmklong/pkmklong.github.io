@@ -15,7 +15,7 @@ Hi! I’m Patrick. I'm a curiosity-driven data scientist with a background in ma
 * *Data Interoperability* - how can we make various health data play well together?
 * *Algorithmic Fairness* - how can we ensure that data solutions provide equitable care for all patients?
 
-I value supporting aspiring analytics professionals with their career goals. Feel free to reach out.
+I enjoy exploring ideas with curious minded individuals and supporting aspiring anaytics professionals in their career journey. Don't hesitate to reach out.
 
 ## Selected Publications
 

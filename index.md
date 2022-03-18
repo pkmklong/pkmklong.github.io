@@ -32,7 +32,7 @@ B  Malpede, S Roy, P Long, E Ozkan, R Hopson, N Leavitt, O Doyle, J Rigg.   2020
 Gupta S, Dieleman F, Long P, Doyle O, Leavitt N. 2020. Proceedings of the ACM Conference on Health, Inference, and Learning.[paper](https://dl.acm.org/doi/10.1145/3368555.3384453)
 
 **To learn is to myelinate.** 
-P Long, G Corfas. To learn is to myelinate. Science 346 (6207), 298-299.[paper](https://www.science.org/doi/abs/10.1126/science.1261127)
+P Long, G Corfas. Science 346 (6207), 298-299.[paper](https://www.science.org/doi/abs/10.1126/science.1261127)
 
 **Dynamic regulation of myelination in health and disease.**
 P Long, G Corfas.  JAMA psychiatry 71 (11), 1296-1297.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4250970/pdf/nihms644315.pdf)

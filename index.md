@@ -19,7 +19,6 @@ I value supporting aspiring analytics professionals with their career goals. Fee
 
 ## Selected Publications
 
-
 **Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH).**
 O Yasar, P Long, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics - In Press.[preprint](https://arxiv.org/abs/2203.03365)
 

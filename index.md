@@ -19,9 +19,6 @@ I value supporting aspiring analytics professionals with their career goals. Fee
 
 ## Publications
 
-**Myelin development, plasticity, and pathology in the auditory system.**
-P Long, G Wan, MT Roberts, G Corfas. Developmental neurobiology 78 (2), 80-92
-[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
 
 **Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH).**
 O Yasar*, P Long*, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics - In Press. [preprint](https://arxiv.org/abs/2203.03365)
@@ -40,6 +37,10 @@ P Long, G Corfas. To learn is to myelinate. Science 346 (6207), 298-299. [paper]
 
 **Dynamic regulation of myelination in health and disease.**
 P Long, G Corfas.  JAMA psychiatry 71 (11), 1296-1297.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4250970/pdf/nihms644315.pdf)
+
+**Myelin development, plasticity, and pathology in the auditory system.**
+P Long, G Wan, MT Roberts, G Corfas. Developmental neurobiology 78 (2), 80-92
+[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
 
 **Hypomyelination leads to alterations in inhibitory function and parvalbumin-positive neuron density in auditory cortex.** 
 X Meng, BC Borges, P Long, PO Kanold, G Corfas. 2021. BioRxiv. [preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.167833v4)

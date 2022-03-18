@@ -9,9 +9,6 @@ layout: default
 I am a curiosity-driven data scientist with a background in machine learning, life science research and biomedical commercialization. I’ve engaged with diverse healthcare stakeholders (e.g. pharma, providers, patients, universities) to develop custom machine learning solutions, such as diagnostic algorithms to accelerate the diagnosis of rare diseases. My passion is combining data with curiosity to make healthcare better for everyone. 
 
 
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
 ## Research Interests 🌱
 
 Applied ML in Healthcare - how can analytics and healthcare professional best collaborate to improve patient care?
@@ -43,6 +40,7 @@ Year | Award | Category
 Here is a horizontal rule
 
 ---
+This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 Here is a blockquote
 

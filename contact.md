@@ -3,24 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](https://github.com/pkmklong)
+2. [LinkedIn](https://www.linkedin.com/in/patrickmarklong/)
+3. [Google Scholar](https://scholar.google.com/citations?hl=en&user=Xg4y16YAAAAJ)

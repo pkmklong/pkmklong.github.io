@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="photo.jpg">
 
 I am a curiosity-driven data scientist with a background in machine learning, life science research and biomedical commercialization. I’ve engaged with diverse healthcare stakeholders (e.g. pharma, providers, patients, universities) to develop custom machine learning solutions, such as diagnostic algorithms to accelerate the diagnosis of rare diseases. My passion is combining data with curiosity to make healthcare better for everyone. 
 

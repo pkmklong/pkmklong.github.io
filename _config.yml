@@ -17,9 +17,9 @@ sass:
 nav:
  - name: "About"
    link: "index"
-# - name: "Resume"
-#   link: "resume.pdf"
-# - name: "Tutorials"
-#  link: "tutorials"
+ - name: "Reading List"
+   link: "readings"
+ - name: "Tutorials"
+  link: "tutorials"
  - name: "Contact"
    link: "contact"

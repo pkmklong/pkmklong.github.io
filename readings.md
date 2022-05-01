@@ -7,7 +7,6 @@ is_contact: true
 1. [The Framing of machine learning risk prediction models
 illustrated by evaluation of sepsis in general wards](https://www.nature.com/articles/s41746-021-00529-x.pdf).[paper]
 <br>Comments:
-
 2. [Clinical subphenotypes in COVID-19: derivation, validation,
 prediction, temporal patterns, and interaction with social
 determinants of health](https://www.nematilab.info/bmijc/assets/081221_paper.pdf).[paper]
@@ -19,7 +18,7 @@ determinants of health](https://www.nematilab.info/bmijc/assets/081221_paper.pdf
 2. [MACHINE LEARNING FAIRNESS NOTIONS: BRIDGING THE GAP
 WITH REAL-WORLD APPLICATIONS](https://arxiv.org/pdf/2006.16745.pdf)
 3. [Algorithm Fairness in AI for Medicine and Healthcare](https://arxiv.org/pdf/2110.00603.pdf).[paper]
-4. 
+
   
 <b>Conformal Inference<b><br>
 1. [Second opinion needed: communicating uncertainty in medical machine learning](https://www.nature.com/articles/s41746-020-00367-3?LinkSource=PassleApp).paper

@@ -1,15 +1,14 @@
-- name: "Readings"
-  link: "readings"
-
-- name: "Contact"
-  link: "contact"
-
-- name: "Resume"
-  link: 
-
 - name: "About"
   link: "index"
   
+- name: "Readings"
+  link: "readings"
   
 - name: "Tutorials"
-  link: "tutorials"
+  link: "tutorials"  
+  
+- name: "Contact"
+  link: "contact"
+
+#- name: "Resume"
+#  link: 

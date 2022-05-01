@@ -17,9 +17,12 @@ sass:
 nav:
  - name: "About"
    link: "index"
+   
  - name: "Reading List"
    link: "readings"
+   
  - name: "Tutorials"
-  link: "tutorials"
+   link: "tutorials"
+  
  - name: "Contact"
    link: "contact"

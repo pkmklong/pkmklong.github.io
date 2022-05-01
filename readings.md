@@ -21,7 +21,7 @@ WITH REAL-WORLD APPLICATIONS](https://arxiv.org/pdf/2006.16745.pdf)
 3. [Algorithm Fairness in AI for Medicine and Healthcare](https://arxiv.org/pdf/2110.00603.pdf)
 4. 
   
-<>Conformal Inference><br>
+<b>Conformal Inference<b><br>
 1. [Second opinion needed: communicating uncertainty in medical machine learning](https://www.nature.com/articles/s41746-020-00367-3?LinkSource=PassleApp)
 2. [Distribution-Free Federated Learning with Conformal Predictions](https://arxiv.org/pdf/2110.07661.pdf)
 3. [STATS 300C: Theory of Statistics](https://candes.su.domains/teaching/stats300c/Lectures/Lecture18.pdf)

@@ -23,6 +23,9 @@ nav:
    
  - name: "Tutorials"
    link: "tutorials"
+   
+ - name: "Research"
+   link: "research"
   
  - name: "Contact"
    link: "contact"

@@ -18,14 +18,14 @@ nav:
  - name: "About"
    link: "index"
    
+ - name: "Research"
+   link: "research"
+   
  - name: "Reading List"
    link: "readings"
    
  - name: "Tutorials"
    link: "tutorials"
    
- - name: "Research"
-   link: "research"
-  
  - name: "Contact"
    link: "contact"

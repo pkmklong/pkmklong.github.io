@@ -13,8 +13,7 @@ I am fascinated by the interaction between early life brain development and huma
 
 
 As a postdoc, our lab research focused on early life experiences in promoting healthy brain function. We investigated the role of adolescent social experiences on myelin maturation in the prefrontal cortex and the effects of early auditory experiences on the processing of sound information in the auditory cortex.
-
-
+<img class="myelin-picture" src="myelin.jpg" width="80"/>
 
 
 

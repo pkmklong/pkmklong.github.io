@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 # Applied ML
-Machine learning tools and the digitization of health data hold great promise for improving the quality of our medical care. I want to contribute to this evolving landscape by supporting creative, ethically driven innovation and training the next generation of data experts. In my current role, I work with a talented multidisciplinary team of data scientists, engineers, consultants, and health professionals, working with different types of health data to reduce time to diagnosis of rare and under-treated diseases and improve patient health outcomes.
+Advances in analytics tools in combination with the growing digitization of health data hold great promise for improving the quality of our medical care. I want to contribute to this evolving landscape by supporting creative, ethically driven innovation and training the next generation of data experts. In my current role, I work with a talented multidisciplinary team of data scientists, engineers, consultants, and health professionals, and with various types of health data (medical claims, EHR) to reduce time to diagnosis of rare and under-treated diseases and improve patient health outcomes.
 
 # Academic Work
 

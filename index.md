@@ -17,7 +17,7 @@ Hi! I’m Patrick. I'm a curiosity-driven data scientist with a background in ma
 
 I enjoy exploring ideas with curious minded individuals and supporting aspiring anaytics professionals in their career journey. Don't hesitate to reach out.
 
-## Selected Publications
+## Selected Work
 
 **Machine learning using longitudinal prescription and medical claims for the detection of nonalcoholic steatohepatitis (NASH).**
 O Yasar, P Long, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics.[paper](https://informatics.bmj.com/content/29/1/e100510.info)

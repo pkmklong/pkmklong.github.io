@@ -24,6 +24,9 @@ nav:
  - name: "Research"
    link: "research"
    
+ - name: "Talks"
+   link: "talks"
+   
  - name: "Tutorials"
    link: "tutorials"
    

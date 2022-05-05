@@ -5,7 +5,7 @@ is_contact: true
 
 # Applied ML
 Advances in ML and the growing digitization of health data promise to improve the quality of our medical care. I want to contribute to this evolving landscape by supporting creative, ethically driven innovation and training the next generation of data experts. In my current role, I work with a talented multidisciplinary team of data scientists, engineers, consultants, and health professionals, and with various types of health data (medical claims, EHR) to reduce the time to diagnosis of rare and under-treated diseases and to improve patient health outcomes.
-<br>
+<br><br>
 <img class="ml-picture" src="aiml.jpg" width="80"/>
 
 # Academic Work

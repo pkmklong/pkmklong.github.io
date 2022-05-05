@@ -9,11 +9,9 @@ Advances in ML and the growing digitization of health data promise to improve th
 <img class="ml-picture" src="aiml.jpg" width="80"/>
 
 # Academic Work
-<b>Targeting brain cancer</b><br>
 I am fascinated by the interaction between early life brain development and human health and disease. In my graduate studies, our lab focused on the disruption of cellular developmental programs in the pathology of brain tumors. We investigated therapeutics that target metabolic and epigenetic pathways in brain tumor stem cells to induce growth arrest. 
 <img class="bcsc-picture" src="csc.jpg" width="80"/>
 
-<b>Early life experience and brain information processing</b><br>
 As a postdoc, our lab research focused on early life experiences in promoting healthy brain function. We investigated the role of adolescent social experiences on myelin maturation in the prefrontal cortex and the effects of early auditory experiences on the processing of sound information in the auditory cortex.
 <img class="myelin-picture" src="myelin.jpg" width="80"/>
 

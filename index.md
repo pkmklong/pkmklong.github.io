@@ -58,9 +58,9 @@ This is a jekyll based resume template. You can find the full source code on [Gi
       <img src="photo.jpg" alt="Avatar" style="width:300px;height:300px;">
     </div>
     <div class="flip-card-back">
-      <h1>John Doe</h1>
-      <p>Architect & Engineer</p>
-      <p>We love that guy</p>
+      <h1>_</h1>
+      <p>_</p>
+      <p>_</p>
     </div>
   </div>
 </div>

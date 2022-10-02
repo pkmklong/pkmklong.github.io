@@ -3,5 +3,5 @@ layout: default
 is_contact: true
 ---
 
-## Hobie
+## Hobie the lab
 <img class="hobie-picture" src="02_hobie.jpg" width="80"/>

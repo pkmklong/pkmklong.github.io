@@ -18,11 +18,11 @@ nav:
  - name: "About"
    link: "index"
    
- - name: "Reading List"
-   link: "readings"
-   
  - name: "Research"
    link: "research"
+   
+ - name: "Reading List"
+   link: "readings"
    
  - name: "Talks"
    link: "talks"
@@ -32,3 +32,6 @@ nav:
    
  - name: "Contact"
    link: "contact"
+   
+ - name: "The Pup"
+   link: "hobie"

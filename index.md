@@ -43,24 +43,11 @@ P Long, G Corfas.  JAMA psychiatry 71 (11), 1296-1297.[paper](https://www.ncbi.n
 **Myelin development, plasticity, and pathology in the auditory system.**
 P Long, G Wan, MT Roberts, G Corfas. Developmental neurobiology 78 (2), 80-92.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
 
-**Hypomyelination leads to alterations in inhibitory function and parvalbumin-positive neuron density in auditory cortex.** 
-X Meng, BC Borges, P Long, PO Kanold, G Corfas. 2022. Glia. In Press.[preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.167833v4)
+**Loss of oligodendrocyte ErbB receptor signaling leads to hypomyelination, reduced density of parvalbumin-expressing interneurons, and inhibitory function in the auditory cortex.** 
+Borges, B. C., Meng, X., Long, P., Kanold, P. O., & Corfas, G. (2022). 2022. Glia, 1– 18. [paper]([https://www.biorxiv.org/content/10.1101/2020.06.23.167833v4](https://doi.org/10.1002/glia.24266](https://doi.org/10.1002/glia.24266))
+
 
 [Full Bibliography](https://scholar.google.com/citations?user=Xg4y16YAAAAJ&hl=en)
 
 ---
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-
-<div class="flip-card">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-      <img src="photo.jpg" alt="Avatar" style="width:300px;height:300px;">
-    </div>
-    <div class="flip-card-back">
-      <h1>_</h1>
-      <p>_</p>
-      <p>_</p>
-    </div>
-  </div>
-</div>

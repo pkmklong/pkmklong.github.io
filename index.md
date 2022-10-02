@@ -44,7 +44,7 @@ P Long, G Corfas.  JAMA psychiatry 71 (11), 1296-1297.[paper](https://www.ncbi.n
 P Long, G Wan, MT Roberts, G Corfas. Developmental neurobiology 78 (2), 80-92.[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773349/)
 
 **Loss of oligodendrocyte ErbB receptor signaling leads to hypomyelination, reduced density of parvalbumin-expressing interneurons, and inhibitory function in the auditory cortex.** 
-Borges, B. C., Meng, X., Long, P., Kanold, P. O., & Corfas, G. 2022. Glia, 1– 18. [paper](https://doi.org/10.1002/glia.24266](https://doi.org/10.1002/glia.24266)
+Borges, B. C., Meng, X., Long, P., Kanold, P. O., & Corfas, G. 2022. Glia, 1– 18. [paper](https://doi.org/10.1002/glia.24266)
 
 
 [Full Bibliography](https://scholar.google.com/citations?user=Xg4y16YAAAAJ&hl=en)

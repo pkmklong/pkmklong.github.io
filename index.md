@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I’m Patrick. I'm a curiosity-driven data scientist with a background in machine learning, life science research and biomedical commercialization. I completed my PhD in neuroscience at the University of Vermont and postdoctoral training at Harvard University and the University of Michigan. In my current role, I work alongside various healthcare stakeholders (pharma, providers, patients, universities) to develop custom machine learning solutions, such as diagnostic algorithms to accelerate the detection of rare diseases. My passion is combining data with curiosity to make healthcare better for everyone. 
-
+Hi! I'm Patrick, a curiosity-driven data scientist with a background in machine learning, life science research, and biomedical commercialization. I earned my PhD in neuroscience from the University of Vermont, and completed postdoctoral training at Harvard University and the University of Michigan. In my current role, I collaborate with various healthcare stakeholders (pharma, providers, patients, universities) to develop custom machine learning solutions, such as diagnostic algorithms to expedite the identification of rare diseases. My passion is to use data-driven insights to make healthcare more accessible and beneficial for all.
 
 ## Research Interests 🌱
 

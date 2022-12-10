@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 # Applied ML
-Advances in machine learning and the increasing digitization of health data are revolutionizing the quality of medical care. I am passionate about contributing to this dynamic environment by promoting creative, ethical-driven innovation and mentoring the upcoming era of data experts. In my current role, I collaborate with an accomplished, multidisciplinary team of data scientists, engineers, consultants and health experts, as well as a wide range of health data (medical claims, EHRs) to expedite the diagnosis of rare and under-treated diseases, and ultimately, enhance patient health outcomes.
+Advances in machine learning and the increasing digitization of health data are revolutionizing medical care. I am passionate about contributing to this dynamic environment by promoting creative, ethical-driven innovation and mentoring the upcoming era of data experts. In my current role, I collaborate with an accomplished, multidisciplinary team of data scientists, engineers, consultants and health experts, as well as a wide range of health data (medical claims, EHRs) to expedite the diagnosis of rare and under-treated diseases, and ultimately, enhance patient health outcomes.
 <br><br>
 <img class="ml-picture" src="ml.jpg" width="80"/>
 

@@ -9,7 +9,7 @@ Advances in machine learning and the increasing digitization of health data are 
 <img class="ml-picture" src="ml.jpg" width="80"/>
 
 # Academic Work
-I am deeply intrigued by the interplay between early life brain development and human health and disease. During my graduate studies, my lab concentrated on the disruption of cellular developmental programs in the pathology of brain tumors. Furthermore, we studied therapeutics that target metabolic and epigenetic pathways in brain tumor stem cells to induce growth arrest. 
+I am deeply intrigued by the interplay between early life brain development and human health and disease. During my graduate studies, my lab concentrated on the disruption of cellular developmental programs in the pathology of brain tumors. We also studied therapeutics that target metabolic and epigenetic pathways in brain tumor stem cells to induce growth arrest. 
 <img class="bcsc-picture" src="csc.jpg" width="80"/>
 
 As a postdoc, our laboratory research investigated how early life experiences can positively or negatively affect healthy brain function. We specifically examined the effects of adolescent social experience on myelin maturation in the prefrontal cortex, the area of the brain responsible for higher level cognitive functioning, as well as the impact of auditory experience during the early stages of life on sound information processing in the auditory cortex.

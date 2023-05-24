@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-AI and data digitization are rapidly changing our healthcare system. I'm passionate about guiding this transformation toward ethical and innovative solutions that foremost benefit patients. In my current role, I work closely with a multidisciplinary team of data scientists, engineers, consultants, and healthcare specialists to leverage real-world data (RWD) for faster detection of rare and under-treated diseases.
+Hi! My name's Patrick. AI and data digitization are rapidly changing our healthcare system. I'm passionate about guiding this transformation toward ethical and innovative solutions that foremost benefit patients. In my current role, I work closely with a multidisciplinary team of data scientists, engineers, consultants, and healthcare specialists to leverage real-world data (RWD) for faster detection of rare and under-treated diseases.
 
 My career spans roles in AI/ML, tech transfer, and neuroscience. As a neuroscientist, I dove into understanding how abnormal brain development might make us susceptible to neurological diseases and how we can use this knowledge to find promising new therapies. In tech transfer, I assessed which university inventions could become the next big thing. This included everything from ML applications for healthcare like diagnostic algorithms and computer vision, to digital health innovations such as mobile health and telemedicine, as well as therapeutic solutions like biologics, small molecules, and medical devices. The practical application of these skills and experiences in the world of AI and healthcare has been an exciting journey.
 

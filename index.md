@@ -6,7 +6,13 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! My name is Patrick, and I'm a data scientist with a passion for machine learning, life science research, and biomedical commercialization. I received my PhD in neuroscience from the University of Vermont and did postdoctoral work at Harvard and the University of Michigan. In my current role, I work with a variety of healthcare stakeholders (pharma, providers, patients, and universities) to create custom machine learning solutions, such as diagnostic algorithms that help to identify rare diseases. My goal is to use data-driven insights to make healthcare more accessible and beneficial to everyone.
+AI and data digitization are rapidly changing our healthcare system. I'm passionate about guiding this transformation toward ethical and innovative solutions that foremost benefit patients. In my current role, I work closely with a multidisciplinary team of data scientists, engineers, consultants, and healthcare specialists to leverage real-world data (RWD) for faster detection of rare and under-treated diseases.
+
+My career spans roles in AI/ML, tech transfer, and neuroscience. As a neuroscientist, I dove into understanding how abnormal brain development might make us susceptible to neurological diseases and how we can use this knowledge to find promising new therapies. In tech transfer, I assessed which university inventions could become the next big thing. This included everything from ML applications for healthcare like diagnostic algorithms and computer vision, to digital health innovations such as mobile health and telemedicine, as well as therapeutic solutions like biologics, small molecules, and medical devices. The practical application of these skills and experiences in the world of AI and healthcare has been an exciting journey.
+
+I am committed to sharing my knowledge and experience. I have been a volunteer mentor at Insight Data Science, where I supported fellows in applied machine learning and effective data science communication. I also enjoy serving as a mentor at various tech hackathons, championing teams in crafting innovative solutions for causes like disease prevention and economic empowerment. 
+
+Feel free to connect or reach out if you're interested in discussing AI in healthcare, data science, or if you have an interesting opportunity to share. 
 
 ## Research Interests 🌱
 

@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="photo_2.jpg">
+<img class="profile-picture" src="photo.jpg">
 
 Hi! My name's Patrick. AI and data digitization are rapidly changing our healthcare system. I'm passionate about guiding this transformation toward ethical and innovative solutions that foremost benefit patients. In my current role, I work closely with a multidisciplinary team of data scientists, engineers, consultants, and healthcare specialists to leverage real-world data (RWD) for faster detection of rare and under-treated diseases.
 

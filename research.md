@@ -10,7 +10,7 @@ Our toolkit includes a broad spectrum of ML methodologies to unlock the potentia
 <img class="ml-picture" src="ml.jpg" width="80"/>
 
 # Neuroscience Research
-## Brain Cancer Epigenetics and Metabolism 
+## Cancer Cell Epigenetics and Metabolism 
 I'm fascinated by the relationship between early brain development and human health and disease. My graduate research lab investigated the how disrupted brain cell development and metabolism may drive brain cancer growth. Brain cancer cells may revert to a less mature, less "differentiated" state by altering their epigenome, small modifications to DNA that help a cell maintain its identity, as well as undergo various metabolic changes that collectively allow the cells to grow uncontrollably. A subset of brain cancer cells called "brain cancer stem cells" are particularly hard to eradicate due to their ability to evade radiation and chemotherapy. We worked to develop novel therapeutics that  specifically target the metabolic and epigenetic pathways that sustain brain cancer stem cells as an adjuvent standard brain cancer therapy.
 <img class="bcsc-picture" src="csc.jpg" width="80"/>
 

@@ -10,11 +10,11 @@ Our toolkit includes a broad spectrum of ML methodologies to unlock the potentia
 <img class="ml-picture" src="ml.jpg" width="80"/>
 
 # Neuroscience Research
-## Dystrupted Cellular Development and Energetics in Brain Cancer
+## Brain Cancer Epigenetics and Metabolism 
 I'm fascinated by the relationship between early brain development and human health and disease. My graduate research lab investigated the disruption of cellular developmental and metabolic processes in brain tumor pathogenesis. We also explored therapeutics that inhibit cancer growth by targeting metabolic and epigenetic pathways in brain tumor stem cells.
 <img class="bcsc-picture" src="csc.jpg" width="80"/>
 
-## The Impact of Sensory Experience on Neural Connnectivity 
+## Sensory Experience and Neural Connnectivity 
 During my postdoctoral fellowship, I explored how early life events might influence healthy brain function favorably or adversely. We focused on the impacts of adolescent social experience on myelin development in the prefrontal cortex, the portion of the brain responsible for higher level cognitive performance, as well as the influence of early life auditory experience on sound information processing in the auditory cortex.
 <img class="myelin-picture" src="myelin.jpg" width="80"/>
 

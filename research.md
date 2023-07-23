@@ -11,11 +11,11 @@ Our toolkit includes a broad spectrum of ML methodologies to unlock the potentia
 
 # Neuroscience Research
 ## Brain Cancer Epigenetics and Metabolism 
-I'm fascinated by the relationship between early brain development and human health and disease. My graduate research lab investigated the disruption of cellular developmental and metabolic processes in brain tumor pathogenesis. We also explored therapeutics that inhibit cancer growth by targeting metabolic and epigenetic pathways in brain tumor stem cells.
+I'm fascinated by the relationship between early brain development and human health and disease. My graduate research lab investigated the disruption of cellular developmental and metabolic processes in brain tumor pathogenesis. Cancer cells may revert to a less mature, less "differentiated" state by altering their epigenome, small modifications to DNA that help a cell maintain its identity, as well as undergo various metabolic changes that collectively allow the to grow uncontrollably. a subset of cancer cells called "cancer stem cells" are particularly hard to eradicate due to their ability to evade radiation and chemotherapy. We developed novel therapeutics that inhibit cancer growth by targeting metabolic and epigenetic pathways in brain cancer stem cells.
 <img class="bcsc-picture" src="csc.jpg" width="80"/>
 
 ## Sensory Experience and Neural Connnectivity 
-During my postdoctoral fellowship, I explored how early life events might influence healthy brain function favorably or adversely. We focused on the impacts of adolescent social experience on myelin development in the prefrontal cortex, the portion of the brain responsible for higher level cognitive performance, as well as the influence of early life auditory experience on sound information processing in the auditory cortex.
+During my postdoc fellowship, I delved into the intriguing subject of how early life experiences can either positively or negatively shape brain function. We focused specifically on how experience might influence the thickness of myelin - an insulating layer around nerve fibers, which governs the speed at which electrical impulses traverse the brain. We investigated the impact of adolescent social experience on myelin development in the prefrontal cortex, an area responsible for higher-order cognitive tasks. Moreover, we explored how early exposure to auditory experiences affects myelin development and how this alters the processing of sound information in the brain.
 <img class="myelin-picture" src="myelin.jpg" width="80"/>
 
 

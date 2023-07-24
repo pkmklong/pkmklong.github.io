@@ -11,7 +11,7 @@ Our toolkit includes a broad spectrum of ML methodologies to unlock the potentia
 
 # Neuroscience Research
 ## Cancer Cell Epigenetics and Metabolism 
-I'm intrigued by the relationship between brain development and our vulnerability to disease, such as brain cancer or mental illness. In brain cancer, cancer cells may revert to a less mature, less "differentiated" state by altering their epigenome, small modifications to DNA that help a cell maintain its identity, as well as undergo various metabolic changes that collectively allow the cells to divide uncontrollably. A subset of brain cancer cells called "brain cancer stem cells" are particularly hard to eradicate due to their ability to evade radiation and chemotherapy. My graduate research lab investigated novel therapeutics that  specifically target the metabolic and epigenetic pathways that sustain brain cancer stem cells to inhibit cancer progression.
+In brain cancer, cancer cells may revert to a less mature, less "differentiated" state by altering their epigenome, small modifications to DNA that help a cell maintain its identity, as well as undergo various metabolic changes that collectively allow the cells to divide uncontrollably. A subset of brain cancer cells called "brain cancer stem cells" are particularly hard to eradicate due to their ability to evade radiation and chemotherapy. My graduate research lab investigated novel therapeutics that  specifically target the metabolic and epigenetic pathways that sustain brain cancer stem cells to inhibit cancer progression.
 <img class="bcsc-picture" src="csc.jpg" width="80"/>
 
 ## Sensory Experience and Neural Connnectivity 

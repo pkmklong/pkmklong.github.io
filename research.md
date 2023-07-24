@@ -11,7 +11,7 @@ Our toolkit includes a broad spectrum of ML methodologies to unlock the potentia
 
 # Neuroscience Research
 ## Cancer Cell Epigenetics and Metabolism 
-In brain cancer, a subset of cancer cells called "brain cancer stem cells" cancer cells revert to a less mature, less "differentiated" state by altering their epigenome, small modifications to DNA that help a cell maintain its identity, as well as undergo various metabolic changes that collectively drive tumor growth. Brain cancer stem cells are particularly hard to eradicate due to their pronounced ability to evade radiation and chemotherapy. My graduate research lab investigated novel therapeutics that  specifically target the metabolic and epigenetic pathways that sustain brain cancer stem cells to inhibit cancer progression.
+In brain cancer, a subset of cancer cells called "brain cancer stem cells" revert to a less mature, less "differentiated" state by altering their epigenome, small modifications to DNA that help a cell maintain its identity, as well as undergo various metabolic changes that collectively drive tumor growth. Brain cancer stem cells are particularly hard to eradicate due to their pronounced ability to evade radiation and chemotherapy. My graduate research lab investigated novel therapeutics that  specifically target the metabolic and epigenetic pathways that sustain brain cancer stem cells to inhibit cancer progression.
 <img class="bcsc-picture" src="csc.jpg" width="80"/>
 
 ## Sensory Experience and Neural Connnectivity 

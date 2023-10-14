@@ -40,7 +40,7 @@ Gupta S, Dieleman F, Long P, Doyle O, Leavitt N. 2020. Proceedings of the ACM Co
 US 16/800,873. pending patent.
 
 **Rolling cross-sections (RCS) as a rigorous study design for timed medical event prediction.**
-B Harder,  R Hopson, P Long, R Ali,  R Cheheltani, R Dimitrova, J Melunis, B North, B Hannah. 2022 PMSA Annual Conference. Louisville KY.[poster]
+B Harder,  R Hopson, P Long, R Ali,  R Cheheltani, R Dimitrova, J Melunis, B North, B Hannah. 2022 PMSA Annual Conference. Louisville KY.poster.
 
 **To learn is to myelinate.** 
 P Long, G Corfas. Science 346 (6207), 298-299.[paper](https://www.science.org/doi/abs/10.1126/science.1261127)

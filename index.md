@@ -28,13 +28,16 @@ I enjoy exploring ideas with curious minded individuals and supporting aspiring 
 O Yasar, P Long, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics.[paper](https://informatics.bmj.com/content/29/1/e100510.info)
 
 **Unbiased ETL System For Timed Medical Event Prediction.**
-R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, J Rigg, V Salvatelli, A Webber. US Patent 20,210,090,745.[patent](https://patents.justia.com/patent/20210090745)
+R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, J Rigg, V Salvatelli, A Webber. US Patent 20,210,090,745.[non-provisional patent application](https://patents.justia.com/patent/20210090745)
 
 **AI Plus Real-World Data for Early Prediction of Disease Progression and Operationalized Precision Targeting.**
 B  Malpede, S Roy, P Long, E Ozkan, R Hopson, N Leavitt, O Doyle, J Rigg.   2020. PMSA.[paper](https://www.pmsa.org/jpmsa-vol08-article07)
 
 **Using SNOMED to automate clinical concept mapping.**
 Gupta S, Dieleman F, Long P, Doyle O, Leavitt N. 2020. Proceedings of the ACM Conference on Health, Inference, and Learning.[paper](https://dl.acm.org/doi/10.1145/3368555.3384453)
+
+**Automated Clinical Concept Mapping Using SNOMED.**
+[non-provisional patent application].
 
 **Rolling cross-sections (RCS) as a rigorous study design for timed medical event prediction.**
 B Harder,  R Hopson, P Long, R Ali,  R Cheheltani, R Dimitrova, J Melunis, B North, B Hannah. 2022 PMSA Annual Conference. Louisville KY.[poster]

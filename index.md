@@ -28,7 +28,7 @@ I enjoy exploring ideas with curious minded individuals and supporting aspiring 
 O Yasar, P Long, B Harder, H Marshall, S Bhasin, S Lee, M Delegge, S Roy, O Doyle, N Leavitt, J Rigg. BMJ Health and Care Informatics.[paper](https://informatics.bmj.com/content/29/1/e100510.info)
 
 **Unbiased ETL System For Timed Medical Event Prediction.**
-R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, J Rigg, V Salvatelli, A Webber. US Patent 20,210,090,745.[non-provisional patent application](https://patents.justia.com/patent/20210090745)
+R Cheheltani, O Doyle, N Leavitt, S Lee, P Long, L McLachlan, B North, E Ozkan, J Rigg, V Salvatelli, A Webber. US 20,210,090,745.[non-provisional patent application](https://patents.justia.com/patent/20210090745)
 
 **AI Plus Real-World Data for Early Prediction of Disease Progression and Operationalized Precision Targeting.**
 B  Malpede, S Roy, P Long, E Ozkan, R Hopson, N Leavitt, O Doyle, J Rigg.   2020. PMSA.[paper](https://www.pmsa.org/jpmsa-vol08-article07)

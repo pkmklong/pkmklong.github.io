@@ -37,7 +37,7 @@ B  Malpede, S Roy, P Long, E Ozkan, R Hopson, N Leavitt, O Doyle, J Rigg.   2020
 Gupta S, Dieleman F, Long P, Doyle O, Leavitt N. 2020. Proceedings of the ACM Conference on Health, Inference, and Learning.[paper](https://dl.acm.org/doi/10.1145/3368555.3384453)
 
 **Automated Clinical Concept Mapping Using SNOMED.**
-[non-provisional patent application].
+non-provisional patent application.
 
 **Rolling cross-sections (RCS) as a rigorous study design for timed medical event prediction.**
 B Harder,  R Hopson, P Long, R Ali,  R Cheheltani, R Dimitrova, J Melunis, B North, B Hannah. 2022 PMSA Annual Conference. Louisville KY.[poster]

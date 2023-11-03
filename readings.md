@@ -2,6 +2,7 @@
 layout: default
 is_contact: true
 ---
+A collection of recent interesting articles and resources that I have encountered.
 
 <b>Health Outcome Prediction<b><br>
 1. [The Framing of machine learning risk prediction models

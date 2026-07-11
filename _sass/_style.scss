@@ -1,0 +1,295 @@
+// Typography improvements
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    font-size: 16px;
+}
+
+// Header styling
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+    color: #2c3e50;
+}
+
+h1 {
+    font-size: 2.2em;
+    margin-top: 1em;
+}
+
+h2 {
+    font-size: 1.6em;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.3em;
+    margin-top: 2.5em;
+}
+
+h3 {
+    font-size: 1.3em;
+    margin-top: 2em;
+}
+
+// Paragraph and text styling
+p {
+    margin-bottom: 1.2em;
+    line-height: 1.7;
+}
+
+// Enhanced profile picture styling
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    margin: 1.5em 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    transition: transform 0.2s ease;
+    
+    &:hover {
+        transform: scale(1.02);
+    }
+}
+
+// Better link styling
+a {
+    color: #0077be;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+    
+    &:hover {
+        border-bottom-color: #0077be;
+        color: #005a9e;
+    }
+    
+    &:visited {
+        color: #0077be;
+    }
+}
+
+// List styling
+ul, ol {
+    padding-left: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+li {
+    margin-bottom: 0.8em;
+    line-height: 1.6;
+}
+
+// Enhanced emphasis
+strong {
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+em {
+    font-style: italic;
+    color: #555;
+}
+
+// Code styling
+code {
+    background-color: #f8f9fa;
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+    font-size: 0.9em;
+    color: #e83e8c;
+}
+
+pre {
+    background-color: #f8f9fa;
+    padding: 1em;
+    border-radius: 6px;
+    overflow-x: auto;
+    border-left: 4px solid #0077be;
+    
+    code {
+        background: none;
+        padding: 0;
+        color: #333;
+    }
+}
+
+// Blockquote styling
+blockquote {
+    border-left: 4px solid #0077be;
+    margin: 1.5em 0;
+    padding-left: 1.5em;
+    color: #666;
+    font-style: italic;
+    background-color: #f8f9fa;
+    padding: 1em 1em 1em 1.5em;
+    border-radius: 0 4px 4px 0;
+}
+
+// Content container
+.content, .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+// Navigation improvements - force horizontal layout
+.nav, nav, .navigation {
+    margin-bottom: 2em;
+    
+    ul, ol {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        
+        li {
+            margin-right: 1.5em;
+            margin-bottom: 0;
+            display: inline-block;
+            
+            a {
+                font-weight: 500;
+                text-decoration: none;
+                
+                &:hover {
+                    color: #005a9e;
+                }
+            }
+        }
+    }
+    
+    // Target direct child links (if no ul/li structure)
+    > a {
+        margin-right: 1.5em;
+        font-weight: 500;
+        display: inline-block;
+        
+        &:hover {
+            color: #005a9e;
+        }
+    }
+}
+
+// Specific overrides for researcher theme navigation
+header nav, .header nav, #nav, .site-nav {
+    ul, ol {
+        list-style: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        display: flex !important;
+        flex-direction: row !important;
+        
+        li {
+            margin-right: 1.5em !important;
+            margin-bottom: 0 !important;
+            display: inline-block !important;
+        }
+    }
+}
+
+// Footer styling
+.footer, footer {
+    margin-top: 3em;
+    padding-top: 2em;
+    border-top: 1px solid #eee;
+    color: #666;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+// Table styling
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    
+    th, td {
+        padding: 0.75em;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+    
+    th {
+        background-color: #f8f9fa;
+        font-weight: 600;
+    }
+}
+
+// Responsive design
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    
+    .profile-picture {
+        width: 150px;
+        height: 150px;
+    }
+    
+    h1 {
+        font-size: 1.8em;
+    }
+    
+    h2 {
+        font-size: 1.4em;
+        margin-top: 2em;
+    }
+    
+    h3 {
+        font-size: 1.2em;
+    }
+    
+    .content, .container {
+        padding: 0 0.5em;
+    }
+    
+    .nav a {
+        margin-right: 1em;
+        display: inline-block;
+        margin-bottom: 0.5em;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: 13px;
+    }
+    
+    .profile-picture {
+        width: 120px;
+        height: 120px;
+    }
+    
+    h1 {
+        font-size: 1.6em;
+    }
+    
+    h2 {
+        font-size: 1.3em;
+    }
+}
+
+// Print styles
+@media print {
+    body {
+        font-size: 12pt;
+        line-height: 1.4;
+    }
+    
+    .profile-picture {
+        width: 2in;
+        height: 2in;
+    }
+    
+    a {
+        color: #000;
+        text-decoration: none;
+        border-bottom: none;
+    }
+    
+    .nav, .footer {
+        display: none;
+    }
+}

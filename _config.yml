@@ -1,0 +1,76 @@
+title: "Patrick Long, PhD"
+url: "https://pkmklong.github.io"
+baseurl: ""
+markdown: kramdown
+
+# Tracking
+tracking_id: ""
+
+# Collections
+collections:
+  publications:
+    output: false
+  articles:
+    output: true
+    permalink: /articles/:name/
+
+# Information
+accent: "#0077be"
+author: "Patrick Long"
+email: "contact@patrickmlong.com"
+description: "AI engineering leader focused on healthcare innovation, real-world data, and scientific discovery."
+logo: /assets/images/articles/og-image.jpg
+image: /assets/images/articles/og-image.jpg
+
+# Social media links
+social:
+  - title: github
+    url: https://github.com/pkmklong
+  - title: linkedin
+    url: https://www.linkedin.com/in/patrickmarklong/
+  - title: substack
+    url: https://patrickmlong.substack.com/
+  - title: orcid
+    url: https://orcid.org/0000-0002-7206-4607
+
+# Build settings
+remote_theme: ankitsultana/researcher@gem
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+# Navigation
+nav:
+  - name: "About"
+    link: "index"
+  - name: "Papers"
+    link: "publications"
+  - name: "Talks"
+    link: "talks"
+  - name: "Writing"
+    link: "writing"
+  - name: "Educational Apps"
+    link: "tutorials"
+  - name: "Model Card"
+    link: "modelcard"
+  - name: "Contact"
+    link: "contact"
+
+# Footer
+footer: "© 2025 Patrick Long. Powered by Jekyll."
+
+# SEO
+lang: "en_US"
+title_separator: "•"
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

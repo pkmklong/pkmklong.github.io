@@ -18,7 +18,7 @@ collections:
 accent: "#0077be"
 author: "Patrick Long"
 email: "contact@patrickmlong.com"
-description: "AI engineering leader focused on healthcare innovation, real-world data, and scientific discovery."
+description: "Technical leader in healthcare machine learning, real-world data, and scientific discovery."
 logo: /assets/images/articles/og-image.jpg
 image: /assets/images/articles/og-image.jpg
 
@@ -43,23 +43,19 @@ plugins:
 
 # Navigation
 nav:
-  - name: "About"
+  - name: "Work"
     link: "index"
-  - name: "Papers"
+  - name: "Research"
     link: "publications"
-  - name: "Talks"
-    link: "talks"
   - name: "Writing"
     link: "writing"
-  - name: "Educational Apps"
-    link: "tutorials"
-  - name: "Model Card"
-    link: "modelcard"
+  - name: "Speaking"
+    link: "talks"
   - name: "Contact"
     link: "contact"
 
 # Footer
-footer: "© 2025 Patrick Long. Powered by Jekyll."
+footer: "Patrick Long"
 
 # SEO
 lang: "en_US"

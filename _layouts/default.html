@@ -181,6 +181,22 @@
         .site-header { display: flex; align-items: center; gap: 10px; }
         .site-logo { height: 28px; width: 28px; border-radius: 4px; vertical-align: middle; box-shadow: 0 1px 3px rgba(0,0,0,0.12); }
         .article-card .desc { font-size: 0.9em; color: #64748b; margin-top: 6px; line-height: 1.4; }
+
+        footer {
+            margin-top: 2.5em;
+            padding-top: 1em;
+            border-top: 1px solid #e2e8f0;
+            color: #64748b;
+            font-size: 0.85em;
+        }
+        footer a {
+            color: #475569;
+            text-decoration: none;
+        }
+        footer a:hover {
+            color: #0077be;
+            text-decoration: underline;
+        }
         
         @media (max-width: 768px) {
             nav ul, .nav ul, header ul {
@@ -239,7 +255,7 @@
     
     <footer>
         {% if site.footer %}
-        <p>{{ site.footer }}</p>
+        <p>© {{ 'now' | date: "%Y" }} {{ site.footer }} · <a href="{{ '/tutorials' | relative_url }}">Educational Apps</a> · <a href="{{ '/modelcard' | relative_url }}">Model Card</a> · Powered by Jekyll.</p>
         {% endif %}
     </footer>
 </body>
